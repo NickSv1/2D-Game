@@ -1,2 +1,2 @@
-# 2D-Game
-A 2D platformer game 
+# Ping-Pong-Game
+A Ping-Pong game 
